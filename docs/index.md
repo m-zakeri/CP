@@ -3,6 +3,7 @@
 ---
 [Amirkabir University of Technology](http://ce.aut.ac.ir)
 
+**Instructor:** [Morteza Zakeri](https://member.acm.org/~mzakeri-nasrabadi), Ph.D., ACM Professional Member
 
 ---
 
