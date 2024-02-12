@@ -104,8 +104,22 @@ nav:
     - Home: index.md
     - Announcements: announcements.md
     - Lectures:
+      - 'lectures/introduction.md'
       - Main Course:
-        - Unit 1 Introduction: lectures/introduction.md
+        - 01 - Introduction: 'lectures/slides/Lecture 01 - Introduction.pptx' 
+        - 02 - Algorithm Design : 'lectures/slides/Lecture 02 - Algorithm Design.pptx' 
+        - 03 - C Programming Basics : 'lectures/slides/Lecture 03 - C Programming Basics.pptx' 
+        - 04 - Calculations: 'lectures/slides/Lecture 04 - Calculations.pptx' 
+        - 05 - Interaction: 'lectures/slides/Lecture 05 - Interaction.pptx' 
+        - 06 - Making Decisions: 'lectures/slides/Lecture 06 - Making Decisions.pptx' 
+        - 07 - Repeating Statements: 'lectures/slides/Lecture 07 - Repeating Statements.pptx' 
+        - 08 - Functions: 'docs/lectures/slides/Lecture 08 - Functions.pptx' 
+        - 09 - Arrays: 'docs/lectures/slides/Lecture 09 - Arrays.pptx' 
+        - 10 - Pointers  Dynamic Memory: 'docs/lectures/slides/Lecture 10 - Pointers  Dynamic Memory.pptx' 
+        - 11 - Structures: 'docs/lectures/slides/Lecture 11 - Structures.pptx' 
+        - 12 - Files: 'docs/lectures/slides/Lecture 12 - Files.pptx' 
+        - 13 - Miscellaneous: 'docs/lectures/slides/Lecture 13 - Miscellaneous.pptx' 
+        - 14 - Introduction to C++ (Optional): 'docs/lectures/slides/Lecture 14 - Introduction to C++ (Optional).pptx' 
       - Lab:
         - 01-Introduction: 'lectures/lab/01-Introduction/C-Lab_introduction_Part1.pdf'
         - 02-Introduction: 'lectures/lab/02-Introduction/C-Lab-introduction-Part2.pdf' 
