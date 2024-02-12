@@ -104,7 +104,22 @@ nav:
     - Home: index.md
     - Announcements: announcements.md
     - Lectures:
+      - Main Course:
         - Unit 1 Introduction: lectures/introduction.md
+      - Lab:
+        - 01-Introduction: 'lectures/lab/01-Introduction/C-Lab_introduction_Part1.pdf'
+        - 02-Introduction: 'lectures/lab/02-Introduction/C-Lab-introduction-Part2.pdf' 
+        - 03-Pseudocode: 'lectures/lab/03-pseudocode/C-Lab_pseudocode.pdf' 
+        - 04-Pseudocode and input-output (IO): 'lectures/lab/04-pseudocode_input_output/C-Lab_pseudocode_IO.pdf'
+        - 05-IO and math: 'lectures/lab/05-math/C-Lab_math.pdf' 
+        - 06-Decision: 'lectures/lab/06-decision'
+        - 07-Loop: 'lectures/lab/07-loop/C-Lab-Loop.pdf' 
+        - 08-Function: 'lectures/lab/08-function/C-Lab_function_recursion.pdf' 
+        - 09-Array: 'lectures/lab/09-Array/C-Lab-Array&String.pdf' 
+        - 10-Pointer_part1: 'lectures/lab/10-Pointer_part1/C-Lab-Pointer-Part1.pdf' 
+        - 11-Pointer_part2: 'lectures/lab/11-Pointer_part2/C-Lab-Pointer-Part2.pdf' 
+        - 12-Struct: 'lectures/lab/12-Struct/C-Lab-Struct.pdf' 
+        - 13-File: 'lectures/lab/13-File/C-Lab_File.pptx'  
     - Assignments:
         - Writing assignments: assignments/writing_assignments.md
     - Projects:
