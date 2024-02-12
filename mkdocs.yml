@@ -34,6 +34,8 @@ theme:
 
   icon:
     logo: material/library
+    repo: fontawesome/brands/github
+
   features:
     - navigation.instant
     - navigation.instant.prefetch
@@ -90,6 +92,12 @@ plugins:
             members: True
 extra_css:
   - stylex.css
+
+markdown_extensions:
+  - abbr
+  - admonition # support for admonitions ---> use this in markdown like this : !!! note "Note" or ??? warning "Warning"
+  - pymdownx.details # support for admonitions with collapse
+  - pymdownx.superfences
 
 nav:
     - Home: index.md
