@@ -2,27 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://m-zakeri.github.io/CP/</loc>
-         <lastmod>2024-02-05</lastmod>
+         <lastmod>2024-02-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://m-zakeri.github.io/CP/announcements/</loc>
-         <lastmod>2024-02-05</lastmod>
+         <lastmod>2024-02-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://m-zakeri.github.io/CP/assignments/writing_assignments/</loc>
-         <lastmod>2024-02-05</lastmod>
+         <lastmod>2024-02-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://m-zakeri.github.io/CP/lectures/introduction/</loc>
-         <lastmod>2024-02-05</lastmod>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://m-zakeri.github.io/CP/lectures/lab/01-Introduction/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://m-zakeri.github.io/CP/lectures/lab/02-Introduction/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://m-zakeri.github.io/CP/lectures/lab/03-pseudocode/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://m-zakeri.github.io/CP/lectures/lab/04-pseudocode_input_output/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://m-zakeri.github.io/CP/lectures/lab/05-math/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://m-zakeri.github.io/CP/lectures/lab/06-decision/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://m-zakeri.github.io/CP/lectures/lab/07-loop/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://m-zakeri.github.io/CP/lectures/lab/08-function/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://m-zakeri.github.io/CP/lectures/lab/09-Array/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://m-zakeri.github.io/CP/lectures/lab/10-Pointer_part1/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://m-zakeri.github.io/CP/lectures/lab/11-Pointer_part2/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://m-zakeri.github.io/CP/lectures/lab/12-Struct/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://m-zakeri.github.io/CP/lectures/lab/13-File/</loc>
+         <lastmod>2024-02-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://m-zakeri.github.io/CP/projects/</loc>
-         <lastmod>2024-02-05</lastmod>
+         <lastmod>2024-02-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
