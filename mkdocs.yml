@@ -68,7 +68,11 @@ theme:
 
   # setup footer ---------------------------------------------
     - navigation.footer # footer navigation
-  
+
+  font:
+    text: Roboto # You can use any font from Google Fonts
+    code: Roboto Mono 
+
   extra:
     social:
       - icon: fontawesome/brands/linkedin
