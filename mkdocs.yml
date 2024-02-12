@@ -104,8 +104,22 @@ nav:
     - Home: index.md
     - Announcements: announcements.md
     - Lectures:
+      - 'lectures/introduction.md'
       - Main Course:
-        - Unit 1 Introduction: lectures/introduction.md
+        - 01 - Introduction: 'lectures/slides/Lecture 01 - Introduction.pptx' 
+        - 02 - Algorithm Design : 'lectures/slides/Lecture 02 - Algorithm Design.pptx' 
+        - 03 - C Programming Basics : 'lectures/slides/Lecture 03 - C Programming Basics.pptx' 
+        - 04 - Calculations: 'lectures/slides/Lecture 04 - Calculations.pptx' 
+        - 05 - Interaction: 'lectures/slides/Lecture 05 - Interaction.pptx' 
+        - 06 - Making Decisions: 'lectures/slides/Lecture 06 - Making Decisions.pptx' 
+        - 07 - Repeating Statements: 'lectures/slides/Lecture 07 - Repeating Statements.pptx' 
+        - 08 - Functions: 'lectures/slides/Lecture 08 - Functions.pptx' 
+        - 09 - Arrays: 'lectures/slides/Lecture 09 - Arrays.pptx' 
+        - 10 - Pointers  Dynamic Memory: 'lectures/slides/Lecture 10 - Pointers  Dynamic Memory.pptx' 
+        - 11 - Structures: 'lectures/slides/Lecture 11 - Structures.pptx' 
+        - 12 - Files: 'lectures/slides/Lecture 12 - Files.pptx' 
+        - 13 - Miscellaneous: 'lectures/slides/Lecture 13 - Miscellaneous.pptx' 
+        - 14 - Introduction to C++ (Optional): 'lectures/slides/Lecture 14 - Introduction to C++ (Optional).pptx' 
       - Lab:
         - 01-Introduction: 'lectures/lab/01-Introduction/C-Lab_introduction_Part1.pdf'
         - 02-Introduction: 'lectures/lab/02-Introduction/C-Lab-introduction-Part2.pdf' 
@@ -119,7 +133,7 @@ nav:
         - 10-Pointer_part1: 'lectures/lab/10-Pointer_part1/C-Lab-Pointer-Part1.pdf' 
         - 11-Pointer_part2: 'lectures/lab/11-Pointer_part2/C-Lab-Pointer-Part2.pdf' 
         - 12-Struct: 'lectures/lab/12-Struct/C-Lab-Struct.pdf' 
-        - 13-File: 'lectures/lab/13-File/C-Lab_File.pptx'  
+        - 13-File: 'lectures/lab/13-File/C-Lab_File.pdf'  
     - Assignments:
         - Writing assignments: assignments/writing_assignments.md
     - Projects:
