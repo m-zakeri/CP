@@ -112,7 +112,7 @@ nav:
         - 03-Pseudocode: 'lectures/lab/03-pseudocode/C-Lab_pseudocode.pdf' 
         - 04-Pseudocode and input-output (IO): 'lectures/lab/04-pseudocode_input_output/C-Lab_pseudocode_IO.pdf'
         - 05-IO and math: 'lectures/lab/05-math/C-Lab_math.pdf' 
-        - 06-Decision: 'lectures/lab/06-decision'
+        - 06-Decision: 'lectures/lab/06-decision/C-Lab_if.pdf'
         - 07-Loop: 'lectures/lab/07-loop/C-Lab-Loop.pdf' 
         - 08-Function: 'lectures/lab/08-function/C-Lab_function_recursion.pdf' 
         - 09-Array: 'lectures/lab/09-Array/C-Lab-Array&String.pdf' 
