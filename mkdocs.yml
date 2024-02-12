@@ -133,7 +133,7 @@ nav:
         - 10-Pointer_part1: 'lectures/lab/10-Pointer_part1/C-Lab-Pointer-Part1.pdf' 
         - 11-Pointer_part2: 'lectures/lab/11-Pointer_part2/C-Lab-Pointer-Part2.pdf' 
         - 12-Struct: 'lectures/lab/12-Struct/C-Lab-Struct.pdf' 
-        - 13-File: 'lectures/lab/13-File/C-Lab_File.pptx'  
+        - 13-File: 'lectures/lab/13-File/C-Lab_File.pdf'  
     - Assignments:
         - Writing assignments: assignments/writing_assignments.md
     - Projects:
