@@ -81,6 +81,7 @@ theme:
         link: https://www.linkedin.com/in/mortazazakeri/
 
 plugins:
+  - tags 
   - search
   - mkdocstrings:
       handlers:
@@ -109,3 +110,24 @@ nav:
     - Projects:
         - Index: projects/index.md
     - Issue Tracker: 'https://github.com/m-zakeri/CP/issues'
+
+
+# for hiding the navigation and toc (used in top of .md file)
+# ---
+# hide:
+#   - navigation
+#   - toc
+# ---
+
+# # Page title
+# ...
+
+
+# for adding tags to the page (used in top of .md file)
+# ---
+# tags:
+#   - HTML5
+#   - JavaScript
+#   - CSS
+#   - Python
+# ---
