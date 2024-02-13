@@ -3,22 +3,31 @@
 ---
 [Amirkabir University of Technology](http://ce.aut.ac.ir)
 
-**Instructor:** [Morteza Zakeri](https://member.acm.org/~mzakeri-nasrabadi), Ph.D., ACM Professional Member
 
 
-## Calendar
+## Spring 2024
 
-#### Spring 2024 
+### Calender 
 
-##### [Persian + Jalali calendar](assets/calendar/fa-calendar.pdf)
+#### [Persian + Jalali calendar](assets/calendar/fa-calendar.pdf)
 
 <!-- <iframe src="assets/calendar/en-calendar.pdf" width="100%" height="600px"></iframe> -->
 
-##### [English + Gregorian calendar](assets/calendar/en-calendar.pdf)
+#### [English + Gregorian calendar](assets/calendar/en-calendar.pdf)
 
 <!-- <iframe src="assets/calendar/fa-calendar.pdf" width="100%" height="600px"></iframe> -->
 
 ----
+
+### Team 
+
+#### Instructor
+
+[Morteza Zakeri](https://member.acm.org/~mzakeri-nasrabadi), Ph.D., ACM Professional Member
+
+#### Teaching assistants
+
+*  
 
 ## References
 
