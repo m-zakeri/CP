@@ -1,7 +1,7 @@
-site_name: Fundamentals of Computer and Programming Course
+site_name: Fundamentals of Computer and Programming
 site_url: https://m-zakeri.github.io/CP
 repo_url: https://github.com/m-zakeri/CP
-site_description: Compiler (dragon) course materials and codes
+site_description: Fundamentals of computer and programming course materials and codes
 site_author: Morteza Zakeri
 copyright: © 2023-2024 Zakeri and TA team
 
@@ -103,37 +103,7 @@ markdown_extensions:
 nav:
     - Home: index.md
     - Announcements: announcements.md
-    - Lectures:
-      - 'lectures/introduction.md'
-      - Main Course:
-        - 01 - Introduction: 'lectures/slides/Lecture 01 - Introduction.pptx' 
-        - 02 - Algorithm Design : 'lectures/slides/Lecture 02 - Algorithm Design.pptx' 
-        - 03 - C Programming Basics : 'lectures/slides/Lecture 03 - C Programming Basics.pptx' 
-        - 04 - Calculations: 'lectures/slides/Lecture 04 - Calculations.pptx' 
-        - 05 - Interaction: 'lectures/slides/Lecture 05 - Interaction.pptx' 
-        - 06 - Making Decisions: 'lectures/slides/Lecture 06 - Making Decisions.pptx' 
-        - 07 - Repeating Statements: 'lectures/slides/Lecture 07 - Repeating Statements.pptx' 
-        - 08 - Functions: 'lectures/slides/Lecture 08 - Functions.pptx' 
-        - 09 - Arrays: 'lectures/slides/Lecture 09 - Arrays.pptx' 
-        - 10 - Pointers  Dynamic Memory: 'lectures/slides/Lecture 10 - Pointers  Dynamic Memory.pptx' 
-        - 11 - Structures: 'lectures/slides/Lecture 11 - Structures.pptx' 
-        - 12 - Files: 'lectures/slides/Lecture 12 - Files.pptx' 
-        - 13 - Miscellaneous: 'lectures/slides/Lecture 13 - Miscellaneous.pptx' 
-        - 14 - Introduction to C++ (Optional): 'lectures/slides/Lecture 14 - Introduction to C++ (Optional).pptx' 
-      - Lab:
-        - 01-Introduction: 'lectures/lab/01-Introduction/C-Lab_introduction_Part1.pdf'
-        - 02-Introduction: 'lectures/lab/02-Introduction/C-Lab-introduction-Part2.pdf' 
-        - 03-Pseudocode: 'lectures/lab/03-pseudocode/C-Lab_pseudocode.pdf' 
-        - 04-Pseudocode and input-output (IO): 'lectures/lab/04-pseudocode_input_output/C-Lab_pseudocode_IO.pdf'
-        - 05-IO and math: 'lectures/lab/05-math/C-Lab_math.pdf' 
-        - 06-Decision: 'lectures/lab/06-decision/C-Lab_if.pdf'
-        - 07-Loop: 'lectures/lab/07-loop/C-Lab-Loop.pdf' 
-        - 08-Function: 'lectures/lab/08-function/C-Lab_function_recursion.pdf' 
-        - 09-Array: 'lectures/lab/09-Array/C-Lab-Array&String.pdf' 
-        - 10-Pointer_part1: 'lectures/lab/10-Pointer_part1/C-Lab-Pointer-Part1.pdf' 
-        - 11-Pointer_part2: 'lectures/lab/11-Pointer_part2/C-Lab-Pointer-Part2.pdf' 
-        - 12-Struct: 'lectures/lab/12-Struct/C-Lab-Struct.pdf' 
-        - 13-File: 'lectures/lab/13-File/C-Lab_File.pdf'  
+    - Lectures: lectures/index.md
     - Assignments:
         - Writing assignments: assignments/writing_assignments.md
     - Projects:
