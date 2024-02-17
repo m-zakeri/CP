@@ -3,9 +3,9 @@
 
 ## Main class
 
-1. [Introduction](slides/Lecture_01_Introduction.pdf)
-2. [Algorithm design](slides/Lecture_02_Algorithm_design.pdf)
-3. C Programming Basics
+1. Introduction ([PDF](slides/Lecture_01_Introduction.pdf) | [PPTX](slides/Lecture_01_Introduction.pptx))
+2. Algorithm design ([PDF](slides/Lecture_02_Algorithm_design.pdf) | [PPTX](slides/Lecture_02_Algorithm_Design.pptx))
+3. C Programming Basics ([PDF](slides/Lecture_03_C_Programming_Basics.pdf) | [PPTX](slides/Lecture_03_C_Programming_Basics.pptx))
 4. Calculations
 5. Interaction
 6. Making Decisions
