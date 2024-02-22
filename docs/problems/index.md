@@ -5,6 +5,7 @@
 
 ## Mid-level questions
 1. [Vlad and Shapes](https://codeforces.com/contest/1926/problem/B) - [Solution](/solutions/m_1.c)
+2. [Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) - [Solution](/solutions/m_2.c)
 
 ## Hard questions
 
