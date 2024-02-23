@@ -5,6 +5,7 @@
 2. [Face to face in the subway](https://quera.org/problemset/218361) - [Solution](/solutions/e_2.c)
 3. [Circle city](https://quera.org/problemset/218362) - [Solution](/solutions/e_3.c)
 4. [Khayyam-Pascal's triangle](https://quera.org/problemset/3410) - [Solution](/solutions/e_4.c)
+5. [The lost point](https://quera.org/problemset/221462) - [Solution](/solutions/e_5.c)
 
 ## Mid-level questions
 1. [Vlad and Shapes](https://codeforces.com/contest/1926/problem/B) - [Solution](/solutions/m_1.c)
