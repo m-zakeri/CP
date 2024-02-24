@@ -6,7 +6,7 @@
 1. Introduction ([PDF](slides/Lecture_01_Introduction.pdf) | [PPTX](slides/Lecture_01_Introduction.pptx))
 2. Algorithm design ([PDF](slides/Lecture_02_Algorithm_design.pdf) | [PPTX](slides/Lecture_02_Algorithm_Design.pptx))
 3. C Programming Basics ([PDF](slides/Lecture_03_C_Programming_Basics.pdf) | [PPTX](slides/Lecture_03_C_Programming_Basics.pptx))
-4. Calculations
+4. Calculations ([PDF](slides/Lecture_04_Calculations.pdf) | [PPTX](slides/Lecture_04_Calculations.pptx))
 5. Interaction
 6. Making Decisions
 7. Repeating Statements
