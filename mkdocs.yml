@@ -108,6 +108,8 @@ nav:
         - Writing assignments: assignments/writing_assignments.md
     - Projects:
         - Index: projects/index.md
+    - Problems:
+        - Index: problems/index.md
     - Issue Tracker: 'https://github.com/m-zakeri/CP/issues'
 
 
