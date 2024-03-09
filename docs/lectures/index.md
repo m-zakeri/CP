@@ -8,8 +8,8 @@
 3. C Programming Basics ([PDF](slides/Lecture_03_C_Programming_Basics.pdf) | [PPTX](slides/Lecture_03_C_Programming_Basics.pptx))
 4. Calculations ([PDF](slides/Lecture_04_Calculations.pdf) | [PPTX](slides/Lecture_04_Calculations.pptx))
 5. Interaction ([PDF](slides/Lecture_05_Interaction.pdf) | [PPTX](slides/Lecture_05_Interaction.pptx))
-6. Making Decisions
-7. Repeating Statements
+6. Making Decisions ([PDF](slides/Lecture_06_Making_Decisions.pdf) | [PPTX](slides/Lecture_06_Making_Decisions.pptx))
+7. Repeating Statements ([PDF](slides/Lecture_07_Repeating_Statements.pdf) | [PPTX](slides/Lecture_07_Repeating_Statements.pptx))
 8. Functions
 9. Arrays
 10. Pointers  Dynamic Memory
