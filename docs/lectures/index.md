@@ -7,17 +7,17 @@
 2. Algorithm design ([PDF](slides/Lecture_02_Algorithm_design.pdf) | [PPTX](slides/Lecture_02_Algorithm_Design.pptx))
 3. C Programming Basics ([PDF](slides/Lecture_03_C_Programming_Basics.pdf) | [PPTX](slides/Lecture_03_C_Programming_Basics.pptx))
 4. Calculations ([PDF](slides/Lecture_04_Calculations.pdf) | [PPTX](slides/Lecture_04_Calculations.pptx))
-5. Interaction
-6. Making Decisions
-7. Repeating Statements
-8. Functions
-9. Arrays
-10. Pointers  Dynamic Memory
-11. Structures
-12. Files:
-13. Miscellaneous:
-14. Introduction to C++
-
+5. Interaction ([PDF](slides/Lecture_05_Interaction.pdf) | [PPTX](slides/Lecture_05_Interaction.pptx))
+6. Making Decisions ([PDF](slides/Lecture_06_Making_Decisions.pdf) | [PPTX](slides/Lecture_06_Making_Decisions.pptx))
+7. Repeating Statements ([PDF](slides/Lecture_07_Repeating_Statements.pdf) | [PPTX](slides/Lecture_07_Repeating_Statements.pptx))
+8. Functions ([PDF](slides/Lecture_08_Functions.pdf) | [PPTX](slides/Lecture_08_Functions.pptx))
+9. Arrays (To be added)
+10. Pointers  Dynamic Memory (To be added)
+11. Structures (To be added)
+12. Files (To be added)
+13. Miscellaneous (To be added)
+14. Introduction to C++ (To be added)
+15. Summary (To be added)
 
 
 ## Laboratory
