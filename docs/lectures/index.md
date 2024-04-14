@@ -11,7 +11,7 @@
 6. Making Decisions ([PDF](slides/Lecture_06_Making_Decisions.pdf) | [PPTX](slides/Lecture_06_Making_Decisions.pptx))
 7. Repeating Statements ([PDF](slides/Lecture_07_Repeating_Statements.pdf) | [PPTX](slides/Lecture_07_Repeating_Statements.pptx))
 8. Functions ([PDF](slides/Lecture_08_Functions.pdf) | [PPTX](slides/Lecture_08_Functions.pptx))
-9. Arrays (To be added)
+9. Arrays ([PDF](slides/Lecture_09_Arrays.pdf) | [PPTX](slides/Lecture_09_Arrays.pptx))
 10. Pointers  Dynamic Memory (To be added)
 11. Structures (To be added)
 12. Files (To be added)
