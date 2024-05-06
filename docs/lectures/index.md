@@ -14,7 +14,7 @@
 9. Arrays ([PDF](slides/Lecture_09_Arrays.pdf) | [PPTX](slides/Lecture_09_Arrays.pptx))
 10. Pointers  Dynamic Memory ([PDF](slides/Lecture_10_Pointers_and_Dynamic_Memory.pdf) | 
 [PPTX](slides/Lecture_10_Pointers_and_Dynamic_Memory.pptx))
-11. Structures (To be added)
+11. Structures ([PDF](slides/Lecture_11_Complex_Data_Types_struct_enum_union.pdf) | [PPTX](slides/Lecture_11_Complex_Data_Types_struct_enum_union.pptx))
 12. Files (To be added)
 13. Miscellaneous (To be added)
 14. Introduction to C++ (To be added)
