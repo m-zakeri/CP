@@ -3,7 +3,7 @@ site_url: https://m-zakeri.github.io/CP
 repo_url: https://github.com/m-zakeri/CP
 site_description: Fundamentals of computer and programming course materials and codes
 site_author: Morteza Zakeri
-copyright: © 2023-2024 Zakeri and TA team
+copyright:  2020-2025 &copy; all rights reserved. Morteza Zakeri, Intelligent Software Engineering Laboratory at Tehran Polytechnic.
 
 theme:
   name: material
@@ -75,15 +75,18 @@ theme:
     text: Roboto # You can use any font from Google Fonts
     code: Roboto Mono 
 
-  extra:
-    social:
-      - icon: fontawesome/brands/linkedin
-        link: https://www.linkedin.com/in/mortazazakeri/
 
 plugins:
-  - tags 
+  - blog:
+      blog_dir: blog
+      authors_profiles: true
+      authors_profiles_name: Authors
+
   - search
+#  - meta
+  - tags
   - mkdocstrings:
+      default_handler: python
       handlers:
         python:
           setup_commands:
@@ -91,26 +94,68 @@ plugins:
             - import os
           selection:
             members: True
-extra_css:
-  - stylex.css
+
+  - social:
+      enabled: !ENV [ CI, false ]
+
 
 markdown_extensions:
   - abbr
   - admonition # support for admonitions ---> use this in markdown like this : !!! note "Note" or ??? warning "Warning"
   - pymdownx.details # support for admonitions with collapse
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  #- pymdownx.blocks.caption
+
+  - toc:
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
 
 nav:
     - Home: index.md
-    - Announcements: announcements.md
+    - Announcements: announcements/index.md
+    - Calendar: calendar/index.md
     - Lectures: lectures/index.md
-    - Assignments:
-        - Writing assignments: assignments/writing_assignments.md
-    - Projects:
-        - Index: projects/index.md
-    - Problems with Solutions:
-        - Index: problems/index.md
+    - Assignments: assignments/index.md
+    - Projects: projects/index.md
+    - Problems with Solutions: problems/index.md
     - Issue Tracker: 'https://github.com/m-zakeri/CP/issues'
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mortazazakeri
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/mztel
+
+
+extra_css:
+  - stylex.css
 
 
 # for hiding the navigation and toc (used in top of .md file)
