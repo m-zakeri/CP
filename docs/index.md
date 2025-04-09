@@ -8,8 +8,6 @@ Our course, "Fundamentals of Computer and Programming in C," at [Amirkabir Unive
 
 ## Course Objectives
 
-![Algorithms](assets/figs/ad.jpg){ width="150"  align=right loading=lazy}
-
 This course aims to:
 
 - Introduce students to the fundamentals of computing and structured programming using the C language.
@@ -21,9 +19,21 @@ This course aims to:
 
 ---
 
+## Learning Outcomes
+
+- By the end of the course, students will:
+
+    * Write efficient, modular, and maintainable C programs.
+    * Understand the fundamentals of computer science and structured programming.
+    * Solve complex problems using algorithms and data structures.
+    * Develop real-world applications using C programming skills.
+
+--- 
+
 ## Course Outline
 
 ### 1. Introduction to Computing
+![Algorithms](assets/figs/ad.jpg){ width="150"  align=right loading=lazy}
 - Fundamentals of computing
 - Historical perspective and early computers
 - Overview of hardware, software, and the Internet
@@ -86,23 +96,16 @@ This course aims to:
 ### Teaching Assistants
 
 * TA Head (Spring 2025): Fatemeh Abdi
-* TA Head (Spring 2024): 
+* TA Head (Spring 2024): Mahdi Haeri 
 
 
 ---
 
 ## Additional Information
 
-![How-Computers-Work-Cover](assets/figs/how-computers-work.jpg){ width="150"  align=right loading=lazy}
-
 - **Prerequisites**: No prior programming experience required. Familiarity with basic mathematics will be beneficial.
-- **Assessment Methods**: Graded assignments, quizzes, practical programming tasks, and a final project.
+- **Assessment Methods**: Graded assignments, quizzes, practical programming tasks, paper-based exams, laboratory classes, and a final project.
 - **Recommended Textbook**: *C How to Program, 9/e* by Paul Deitel and Harvey Deitel.
-- **Learning Outcomes**: By the end of the course, students will:
-    * Write efficient, modular, and maintainable C programs.
-    * Understand the fundamentals of computer science and structured programming.
-    * Solve complex problems using algorithms and data structures.
-    * Develop real-world applications using C programming skills.
 
 
 ---
@@ -111,9 +114,16 @@ This course aims to:
 
 ### Main textbooks
 
+![C-how-to-program-9-e-book-cover](assets/figs/c-how-to-program-9-e-book-cover.jpg){ width="150"  align=right loading=lazy}
 1. Paul Deitel and Harvey Deitel, [**C How to Program, Ninth Edition, 2022**](https://deitel.com/c-how-to-program-9-e/){ target="_blank" }.
 
+The book *C How to Program, Ninth Edition* by Paul Deitel and Harvey Deitel is a comprehensive guide to C programming. It offers a code-intensive, case-study-oriented approach suitable for both introductory and intermediate-level courses. The book covers a wide range of topics, including problem-solving, algorithm development, control statements, functions, arrays, pointers, and data structures. It also includes over 140 complete working programs, real-world examples, and self-check exercises to reinforce learning. 
+
+
+![How-Computers-Work-Cover](assets/figs/how-computers-work.jpg){ width="150"  align=right loading=lazy}
 2. R. White, [**How Computers Work: The Evolution of Technology**](https://www.oreilly.com/library/view/how-computers-work/9780133096798/){ target="_blank" }, 10th ed. Indianapolis, IN, USA: Que Publishing, 2014.
+
+*How Computers Work: The Evolution of Technology* by Ron White is a visually engaging and comprehensive guide to understanding the inner workings of computers and modern technology. The book explores the evolution of computing devices, from early machines to today's smartphones, tablets, and wearable tech. It features detailed illustrations and jargon-free explanations, making complex concepts accessible to readers of all technical levels. Topics include hardware, software, miniaturization, quantum physics applications, and the impact of technology on daily life.
 
 
 ### Helpful textbooks
