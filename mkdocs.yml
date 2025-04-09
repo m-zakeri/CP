@@ -142,8 +142,8 @@ nav:
     - Lectures: lectures/index.md
     - Assignments: assignments/index.md
     - Projects: projects/index.md
-    - Problems with Solutions: problems/index.md
-    - Blog: bolg/index.md
+    - Problems: problems/index.md
+    - Blog: blog/index.md
     - Issue Tracker: 'https://github.com/m-zakeri/CP/issues'
 
 

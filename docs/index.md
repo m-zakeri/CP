@@ -8,6 +8,8 @@ Our course, "Fundamentals of Computer and Programming in C," at [Amirkabir Unive
 
 ## Course Objectives
 
+![Algorithms](assets/figs/ad.jpg){ width="150"  align=right loading=lazy}
+
 This course aims to:
 
 - Introduce students to the fundamentals of computing and structured programming using the C language.
@@ -91,6 +93,8 @@ This course aims to:
 
 ## Additional Information
 
+![How-Computers-Work-Cover](assets/figs/how-computers-work.jpg){ width="150"  align=right loading=lazy}
+
 - **Prerequisites**: No prior programming experience required. Familiarity with basic mathematics will be beneficial.
 - **Assessment Methods**: Graded assignments, quizzes, practical programming tasks, and a final project.
 - **Recommended Textbook**: *C How to Program, 9/e* by Paul Deitel and Harvey Deitel.
@@ -105,9 +109,14 @@ This course aims to:
 
 ## References
 
+### Main textbooks
+
 1. Paul Deitel and Harvey Deitel, [**C How to Program, Ninth Edition, 2022**](https://deitel.com/c-how-to-program-9-e/){ target="_blank" }.
 
-2. R. White, **How Computers Work: The Evolution of Technology**, 10th ed. Indianapolis, IN, USA: Que Publishing, 2014.
+2. R. White, [**How Computers Work: The Evolution of Technology**](https://www.oreilly.com/library/view/how-computers-work/9780133096798/){ target="_blank" }, 10th ed. Indianapolis, IN, USA: Que Publishing, 2014.
+
+
+### Helpful textbooks
 
 3. B. W. Kernighan and D. M. Ritchie, *The C Programming Language*, 2nd ed. Upper Saddle River, NJ, USA: Prentice Hall, 1988.
 
