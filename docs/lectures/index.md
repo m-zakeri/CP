@@ -11,12 +11,13 @@
 6. Making Decisions ([PDF](slides/Lecture_06_Making_Decisions.pdf) | [PPTX](slides/Lecture_06_Making_Decisions.pptx))
 7. Repeating Statements ([PDF](slides/Lecture_07_Repeating_Statements.pdf) | [PPTX](slides/Lecture_07_Repeating_Statements.pptx))
 8. Functions ([PDF](slides/Lecture_08_Functions.pdf) | [PPTX](slides/Lecture_08_Functions.pptx))
-9. Arrays (To be added)
-10. Pointers  Dynamic Memory (To be added)
-11. Structures (To be added)
-12. Files (To be added)
-13. Miscellaneous (To be added)
-14. Introduction to C++ (To be added)
+9. Arrays ([PDF](slides/Lecture_09_Arrays.pdf) | [PPTX](slides/Lecture_09_Arrays.pptx))
+10. Pointers  Dynamic Memory ([PDF](slides/Lecture_10_Pointers_and_Dynamic_Memory.pdf) | 
+[PPTX](slides/Lecture_10_Pointers_and_Dynamic_Memory.pptx))
+11. Structures ([PDF](slides/Lecture_11_Complex_Data_Types_struct_enum_union.pdf) | [PPTX](slides/Lecture_11_Complex_Data_Types_struct_enum_union.pptx))
+12. Files ([PDF](slides/Lecture_12_Files.pdf) | [PPTX](slides/Lecture_12_Files.pptx)) 
+13. Miscellaneous ([PDF](slides/Lecture_13_Preprocessor_and_Miscellaneous_topics.pdf) | [PPTX](slides/Lecture_13_Preprocessor_and_Miscellaneous_topics.pptx))
+14. Introduction to C++ ([PDF](slides/Lecture_14_Introduction_to_CPP_v2.pdf) | [PPTX](slides/Lecture_14_Introduction_to_CPP_v2.pptx))
 15. Summary (To be added)
 
 
