@@ -1,43 +1,59 @@
 
 # Lectures
 
-## Main class
+## Spring 2025 
 
-1. Introduction ([PDF](slides/Lecture_01_Introduction.pdf) | [PPTX](slides/Lecture_01_Introduction.pptx))
-2. Algorithm design ([PDF](slides/Lecture_02_Algorithm_design.pdf) | [PPTX](slides/Lecture_02_Algorithm_Design.pptx))
-3. C Programming Basics ([PDF](slides/Lecture_03_C_Programming_Basics.pdf) | [PPTX](slides/Lecture_03_C_Programming_Basics.pptx))
-4. Calculations ([PDF](slides/Lecture_04_Calculations.pdf) | [PPTX](slides/Lecture_04_Calculations.pptx))
-5. Interaction ([PDF](slides/Lecture_05_Interaction.pdf) | [PPTX](slides/Lecture_05_Interaction.pptx))
-6. Making Decisions ([PDF](slides/Lecture_06_Making_Decisions.pdf) | [PPTX](slides/Lecture_06_Making_Decisions.pptx))
-7. Repeating Statements ([PDF](slides/Lecture_07_Repeating_Statements.pdf) | [PPTX](slides/Lecture_07_Repeating_Statements.pptx))
-8. Functions ([PDF](slides/Lecture_08_Functions.pdf) | [PPTX](slides/Lecture_08_Functions.pptx))
-9. Arrays ([PDF](slides/Lecture_09_Arrays.pdf) | [PPTX](slides/Lecture_09_Arrays.pptx))
-10. Pointers  Dynamic Memory ([PDF](slides/Lecture_10_Pointers_and_Dynamic_Memory.pdf) | 
-[PPTX](slides/Lecture_10_Pointers_and_Dynamic_Memory.pptx))
-11. Structures ([PDF](slides/Lecture_11_Complex_Data_Types_struct_enum_union.pdf) | [PPTX](slides/Lecture_11_Complex_Data_Types_struct_enum_union.pptx))
-12. Files ([PDF](slides/Lecture_12_Files.pdf) | [PPTX](slides/Lecture_12_Files.pptx)) 
-13. Miscellaneous ([PDF](slides/Lecture_13_Preprocessor_and_Miscellaneous_topics.pdf) | [PPTX](slides/Lecture_13_Preprocessor_and_Miscellaneous_topics.pptx))
-14. Introduction to C++ ([PDF](slides/Lecture_14_Introduction_to_CPP_v2.pdf) | [PPTX](slides/Lecture_14_Introduction_to_CPP_v2.pptx))
+
+### Main class
+
+To be announced.
+
+### Laboratory
+To be announced.
+
+
+---
+
+## Spring 2024
+
+### Main class
+
+1. Introduction ([PDF](spring2024/slides/Lecture_01_Introduction.pdf) | [PPTX](spring2024/slides/Lecture_01_Introduction.pptx))
+2. Algorithm design ([PDF](spring2024/slides/Lecture_02_Algorithm_design.pdf) | [PPTX](spring2024/slides/Lecture_02_Algorithm_Design.pptx))
+3. C Programming Basics ([PDF](spring2024/slides/Lecture_03_C_Programming_Basics.pdf) | [PPTX](spring2024/slides/Lecture_03_C_Programming_Basics.pptx))
+4. Calculations ([PDF](spring2024/slides/Lecture_04_Calculations.pdf) | [PPTX](spring2024/slides/Lecture_04_Calculations.pptx))
+5. Interaction ([PDF](spring2024/slides/Lecture_05_Interaction.pdf) | [PPTX](spring2024/slides/Lecture_05_Interaction.pptx))
+6. Making Decisions ([PDF](spring2024/slides/Lecture_06_Making_Decisions.pdf) | [PPTX](spring2024/slides/Lecture_06_Making_Decisions.pptx))
+7. Repeating Statements ([PDF](spring2024/slides/Lecture_07_Repeating_Statements.pdf) | [PPTX](spring2024/slides/Lecture_07_Repeating_Statements.pptx))
+8. Functions ([PDF](spring2024/slides/Lecture_08_Functions.pdf) | [PPTX](spring2024/slides/Lecture_08_Functions.pptx))
+9. Arrays ([PDF](spring2024/slides/Lecture_09_Arrays.pdf) | [PPTX](spring2024/slides/Lecture_09_Arrays.pptx))
+10. Pointers  Dynamic Memory ([PDF](spring2024/slides/Lecture_10_Pointers_and_Dynamic_Memory.pdf) | 
+[PPTX](spring2024/slides/Lecture_10_Pointers_and_Dynamic_Memory.pptx))
+11. Structures ([PDF](spring2024/slides/Lecture_11_Complex_Data_Types_struct_enum_union.pdf) | [PPTX](spring2024/slides/Lecture_11_Complex_Data_Types_struct_enum_union.pptx))
+12. Files ([PDF](spring2024/slides/Lecture_12_Files.pdf) | [PPTX](spring2024/slides/Lecture_12_Files.pptx)) 
+13. Miscellaneous ([PDF](spring2024/slides/Lecture_13_Preprocessor_and_Miscellaneous_topics.pdf) | [PPTX](spring2024/slides/Lecture_13_Preprocessor_and_Miscellaneous_topics.pptx))
+14. Introduction to C++ ([PDF](spring2024/slides/Lecture_14_Introduction_to_CPP_v2.pdf) | [PPTX](spring2024/slides/Lecture_14_Introduction_to_CPP_v2.pptx))
 15. Summary (To be added)
 
 
-## Laboratory
-1. [Introduction (Part 1)](lab/01-Introduction/C-Lab_introduction_Part1.pdf)
-2. [Introduction (Part 2)](lab/02-Introduction/C-Lab-introduction-Part2.pdf)
-3. [Pseudocode](lab/03-pseudocode/C-Lab_pseudocode.pdf)
-4. [Pseudocode and input-output (IO)](lab/04-pseudocode_input_output/C-Lab_pseudocode_IO.pdf)
-5. [IO and math](lab/05-math/C-Lab_math.pdf) 
-6. [Decision](lab/06-decision/C-Lab_if.pdf)
-7. [Loop](lab/07-loop/C-Lab-Loop.pdf)
-8. [Function](lab/08-function/C-Lab_function_recursion.pdf)
-9. [Array](lab/09-Array/C-Lab-Array&String.pdf)
-10. [Pointer_part1](lab/10-Pointer_part1/C-Lab-Pointer-Part1.pdf)
-11. [Pointer_part2](lab/11-Pointer_part2/C-Lab-Pointer-Part2.pdf) 
-12. [Struct](lab/12-Struct/C-Lab-Struct.pdf)
-13. [File](lab/13-File/C-Lab_File.pdf)
+### Laboratory
+1. [Introduction (Part 1)](spring2024/lab/01-Introduction/C-Lab_introduction_Part1.pdf)
+2. [Introduction (Part 2)](spring2024/lab/02-Introduction/C-Lab-introduction-Part2.pdf)
+3. [Pseudocode](spring2024/lab/03-pseudocode/C-Lab_pseudocode.pdf)
+4. [Pseudocode and input-output (IO)](spring2024/lab/04-pseudocode_input_output/C-Lab_pseudocode_IO.pdf)
+5. [IO and math](spring2024/lab/05-math/C-Lab_math.pdf) 
+6. [Decision](spring2024/lab/06-decision/C-Lab_if.pdf)
+7. [Loop](spring2024/lab/07-loop/C-Lab-Loop.pdf)
+8. [Function](spring2024/lab/08-function/C-Lab_function_recursion.pdf)
+9. [Array](spring2024/lab/09-Array/C-Lab-Array&String.pdf)
+10. [Pointer_part1](spring2024/lab/10-Pointer_part1/C-Lab-Pointer-Part1.pdf)
+11. [Pointer_part2](spring2024/lab/11-Pointer_part2/C-Lab-Pointer-Part2.pdf) 
+12. [Struct](spring2024/lab/12-Struct/C-Lab-Struct.pdf)
+13. [File](spring2024/lab/13-File/C-Lab_File.pdf)
 
 
-## TA class
+### TA class
 1. Git and Bash
 2. 
 
+---
