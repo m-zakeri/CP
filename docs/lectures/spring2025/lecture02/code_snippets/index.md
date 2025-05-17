@@ -6,6 +6,7 @@
 === "C"
     
     ``` C
+    /** By: Negin Eini-pour **/
     #include <stdio.h>
     int main()
     {
@@ -25,6 +26,7 @@
 === "C++"
 
     ``` c++
+    /** By: Negin Eini-pour **/
     #include <iostream>
 
     int main(void) {
@@ -40,6 +42,7 @@
 === "C"
     
     ``` C
+    /** By: Negin Eini-pour **/
     #include <stdio.h>
     
     int main()
