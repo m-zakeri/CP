@@ -42,21 +42,15 @@ theme:
     - navigation.instant.progress
     - navigation.instant.preview
     - navigation.tracking
-
     - navigation.tabs
+    - navigation.indexes
     # - navigation.tabs.sticky
-
     # - navigation.sections
     # - navigation.expand
-
     - navigation.path
-    # - navigation.prune 
-
-    # - navigation.indexes
-
-    # - toc.follow
-    - toc.integrate   # good feature :)
-
+    # - navigation.prune
+    - toc.follow
+    # - toc.integrate   # good feature :)
     - navigation.top  # Add "back to top" button
 
   # setup the search -----------------------------------------
