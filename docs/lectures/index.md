@@ -1,15 +1,25 @@
 
 # Lectures
 
+Students should use the latest version of the course slides, _i.e._, current semester slides.
+
+
 ## Spring 2025 
 
 
 ### Main class
 
+ - Lecture 2: Structured Programming and Algorithm Design ([:fontawesome-solid-file-pdf: PDF](spring2025/lecture02/Lecture_02_Structured_Programming_and_Algorithm_Design.pdf){target="_blank"} | [:material-file-code-outline: Code Snippets](spring2025/lecture02/code_snippets/index.md){target="_blank"})
+ - Lecture 3: 
+
+To be completed.
+
+
+
+### Laboratory class
+
 To be announced.
 
-### Laboratory
-To be announced.
 
 
 ---
@@ -36,7 +46,7 @@ To be announced.
 15. Summary (To be added)
 
 
-### Laboratory
+### Laboratory class
 1. [Introduction (Part 1)](spring2024/lab/01-Introduction/C-Lab_introduction_Part1.pdf)
 2. [Introduction (Part 2)](spring2024/lab/02-Introduction/C-Lab-introduction-Part2.pdf)
 3. [Pseudocode](spring2024/lab/03-pseudocode/C-Lab_pseudocode.pdf)
@@ -52,8 +62,12 @@ To be announced.
 13. [File](spring2024/lab/13-File/C-Lab_File.pdf)
 
 
-### TA class
-1. Git and Bash
+---
+
+## TA class
+1. Git and Bash ([:material-microsoft-powerpoint: PPTX](ta/Session_10_Mahrad_Git.pptx){target="_blank"})
 2. 
 
----
+
+
+
