@@ -10,9 +10,12 @@ Students should use the latest version of the course slides, _i.e._, current sem
 ### Main class
 
  - Lecture 2: Structured Programming and Algorithm Design ([:fontawesome-solid-file-pdf: PDF](spring2025/lecture02/Lecture_02_Structured_Programming_and_Algorithm_Design.pdf){target="_blank"} | [:material-file-code-outline: Code Snippets](spring2025/lecture02/code_snippets/index.md){target="_blank"})
- - Lecture 3: 
-
-To be completed.
+ - Lecture 3: C Programming Basics ([:fontawesome-solid-file-pdf: PDF](spring2025/lecture03/Lecture_03_C_Programming_Basics.pdf){target="_blank"} | [:material-file-code-outline: Code Snippets](spring2025/lecture03/code_snippets/index.md){target="_blank"})
+ - Lecture 4: Calculations ([:fontawesome-solid-file-pdf: PDF](spring2025/lecture04/Lecture_04_Calculations.pdf){target="_blank"} | [:material-file-code-outline: Code Snippets](spring2025/lecture04/code_snippets/index.md){target="_blank"})
+ - Lecture 5: Interaction ([:fontawesome-solid-file-pdf: PDF](spring2025/lecture05/Lecture_05_Interaction.pdf){target="_blank"} | [:material-file-code-outline: Code Snippets](spring2025/lecture05/code_snippets/index.md){target="_blank"})
+ - Lecture 6: Making Desicions ([:fontawesome-solid-file-pdf: PDF](spring2025/lecture06/Lecture_06_Making_Decisions.pdf){target="_blank"} | [:material-file-code-outline: Code Snippets](spring2025/lecture06/code_snippets/index.md){target="_blank"})
+ - Lecture 7: Repeating Statements ([:fontawesome-solid-file-pdf: PDF](spring2025/lecture07/Lecture_07_Repeating_Statements.pdf){target="_blank"} | [:material-file-code-outline: Code Snippets](spring2025/lecture07/code_snippets/index.md){target="_blank"})
+- Lecture 8: Functions ([:fontawesome-solid-file-pdf: PDF](spring2025/lecture08/Lecture_08_Functions.pdf){target="_blank"} | [:material-file-code-outline: Code Snippets](spring2025/lecture08/code_snippets/index.md){target="_blank"})
 
 
 
